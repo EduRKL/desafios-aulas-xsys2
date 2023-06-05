@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\MyVillage\obj\Debug\net6.0\MyVillage.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\MyVillage\obj\Debug\net6.0\MyVillage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\MyVillage\obj\Debug\net6.0\MyVillage.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\MyVillage\obj\Debug\net6.0\MyVillage.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\MyVillage\obj\Debug\net6.0\MyVillage.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\MyVillage\bin\Debug\net6.0\MyVillage.exe
+C:\Users\Usuário\source\repos\MyVillage\bin\Debug\net6.0\MyVillage.deps.json
+C:\Users\Usuário\source\repos\MyVillage\bin\Debug\net6.0\MyVillage.runtimeconfig.json
+C:\Users\Usuário\source\repos\MyVillage\bin\Debug\net6.0\MyVillage.dll
+C:\Users\Usuário\source\repos\MyVillage\bin\Debug\net6.0\MyVillage.pdb
+C:\Users\Usuário\source\repos\MyVillage\obj\Debug\net6.0\MyVillage.dll
+C:\Users\Usuário\source\repos\MyVillage\obj\Debug\net6.0\refint\MyVillage.dll
+C:\Users\Usuário\source\repos\MyVillage\obj\Debug\net6.0\MyVillage.pdb
+C:\Users\Usuário\source\repos\MyVillage\obj\Debug\net6.0\MyVillage.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\MyVillage\obj\Debug\net6.0\ref\MyVillage.dll
